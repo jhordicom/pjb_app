@@ -1,0 +1,31 @@
+*{
+    
+}
+a{
+    color: inherit;
+}
+.login-box {
+    padding:5px;
+    background-color:lightblue;
+            }
+.login-box ul li{
+    height: 3vh;
+    display: inline-block;
+    
+}
+.contain{
+    padding:35px 0;
+    background-color:lightblue;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-image: image("../gambar/mk.jpg");
+    background-size: cover;
+    }
+.banner{
+    height: 10vh;
+    
+    
+}
+
+

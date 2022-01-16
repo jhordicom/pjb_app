@@ -1,0 +1,11 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+body{
+font-size: 62.5%;
+}
+.slide{
+width: 500px;
+}
